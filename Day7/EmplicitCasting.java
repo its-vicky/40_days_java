@@ -1,8 +1,9 @@
 package TypeCasting;
 
-public class EmplicitCasting {
-
-	public static void main(String[] args) {
+public class EmplicitCasting
+{
+	public static void main(String[] args) 
+	{
 		double a=108.87;
 		long c=(long)a;
 		int b=(int)c;
