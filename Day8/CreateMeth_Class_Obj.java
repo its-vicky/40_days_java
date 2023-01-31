@@ -1,9 +1,10 @@
 package fiftydayscode_method_class_object;
 
-public class CreateMeth_Class_Obj {
+public class CreateMeth_Class_Obj
+{
 		int a=40;			//this is the instance variable..!!
-		static int b=45;	//this is the static variable..!!
-		void firstMethod()	//the method was created..!!
+		static int b=45;		//this is the static variable..!!
+		void firstMethod()		//the method was created..!!
 		{
 			int c=50;		//this is the local variable..!!
 			System.out.println("the First Statement is Printed..!!"+c);
