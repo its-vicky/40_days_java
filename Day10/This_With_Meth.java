@@ -1,6 +1,7 @@
 package fiftydayscode_this;
 
-public class This_With_Meth {
+public class This_With_Meth 
+{
 
 		public void add()
 		{
@@ -16,7 +17,8 @@ public class This_With_Meth {
 			this.add();
 			this.sub();
 		}
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		This_With_Meth twm=new This_With_Meth();
 		twm.multi();
 
