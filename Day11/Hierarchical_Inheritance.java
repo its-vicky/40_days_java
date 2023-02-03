@@ -20,9 +20,11 @@ class C1 extends A1
 		System.out.println("This is the child class2..!!");
 	}
 }
-public class Hierarchical_Inheritance {
+public class Hierarchical_Inheritance 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		System.out.println("HIERARCHICAL INHERITANCE");
 		System.out.println("===============================");
 		B1 b=new B1();
