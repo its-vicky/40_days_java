@@ -30,9 +30,11 @@ class D extends C
 		System.out.println("The Division of the given number is "+(a/b));
 	}
 }
-public class Multilevel_inheritance {
+public class Multilevel_inheritance 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		System.out.println("MULTILEVEL INHERITANCE");
 		System.out.println("=============================");
 		D d=new D();
