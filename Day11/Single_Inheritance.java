@@ -6,6 +6,7 @@ class Demo
 		System.out.println("This is the parent class..!!");
 	}
 }
+
 public class Single_Inheritance extends Demo
 {
 
