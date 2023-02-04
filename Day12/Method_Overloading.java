@@ -1,6 +1,7 @@
 package fiftydayscode_polymorphism;
 
-public class Method_Overloading {
+public class Method_Overloading 
+{
 
 		//the overloading method contains same method name but different parameters
 	public void add()
@@ -23,7 +24,8 @@ public class Method_Overloading {
 	{
 		System.out.println("The Given Double addition is "+(a+b));
 	}
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		System.out.println("METHOD OVERLOADING");
 		System.out.println("===========================");
 		Method_Overloading mo=new Method_Overloading();
