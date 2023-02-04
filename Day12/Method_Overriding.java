@@ -24,7 +24,8 @@ class Two extends One
 		System.out.println("[TWO] The Cube is "+(a*a*a));
 	}
 }
-public class Method_Overriding {
+public class Method_Overriding 
+{
 
 	public static void main(String[] args) {
 		System.out.println("METHOD OVERRIDING");
