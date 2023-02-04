@@ -1,0 +1,4 @@
+Polymorphism means the many forms of any work.
+Polymorphism contains Method Overloading and Method Overriding.
+Method Overloading contains same method name but different parameters.
+Method Overriding contains same method name and same parameters but different class.
