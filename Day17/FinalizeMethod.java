@@ -16,9 +16,11 @@ class Demo
 		System.out.println("From Finalize Method");
 	}
 }
-public class FinalizeMethod {
+public class FinalizeMethod 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		Demo a1=new Demo();
 		Demo a2=new Demo();
 		a1=a2;
