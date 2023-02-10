@@ -1,5 +1,4 @@
 package fiftydayscode_stringFunctions;
-
 public class StringFunctions
 { 
 	public static void main(String args[])
