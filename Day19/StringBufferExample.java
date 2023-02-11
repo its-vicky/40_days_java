@@ -1,5 +1,6 @@
 class StringBufferExample
 {
+	//the StringBuffer Classes are used for performing some operations on the String
 	public static void main(String args[])
 	{
 		StringBuffer sb=new StringBuffer("India ");
