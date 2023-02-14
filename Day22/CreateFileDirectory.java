@@ -1,17 +1,20 @@
 package fiftydayscode_CreateDirectory;
+
 import java.io.File;
 import java.util.Scanner;
-public class CreateFileDirectory {
+
+public class CreateFileDirectory 
+{
 	
-	public static void main(String args[]) {
+	public static void main(String args[]) 
+	{
+		
 		System.out.println("Enter the path to create a directory: ");
 		Scanner sc = new Scanner(System.in);
 		String path = sc.next();
 		System.out.println("Enter the name of the desired a directory: ");
 		path = path+sc.next();
-		//Creating a File object
 		File file = new File(path);
-		//Creating the directory
 		boolean bool = file.mkdir();
 		if(bool){
 			System.out.println("Directory created successfully");
