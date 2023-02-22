@@ -1,3 +1,4 @@
+package fiftydayschallenge_PrimeNumber
 import java.util.Scanner;
 class PrimeNumber
 {
