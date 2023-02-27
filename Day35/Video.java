@@ -1,6 +1,7 @@
 package Project2;
 
-public class Video {
+public class Video 
+{
 	String videoName;
 	boolean checkout;
 	int rating;
