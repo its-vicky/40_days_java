@@ -1,9 +1,10 @@
 package Project2;
 
-public class VideoStore extends Video {
-	VideoStore(String name) {
+public class VideoStore extends Video 
+{
+	VideoStore(String name) 
+	{
 		super(name);
-		// TODO Auto-generated constructor stub
 	}
 	Video[] store=new Video[5];
 	
