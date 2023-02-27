@@ -1,6 +1,7 @@
 package Project2;
 import java.util.Scanner;
-public class VideoLauncher {
+public class VideoLauncher 
+{
 	public static void main(String[] args)
 	{
 		Scanner vc=new Scanner(System.in);
